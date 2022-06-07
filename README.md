@@ -21,12 +21,12 @@ To get a local copy up and running follow these simple example steps.
 ### Clone this repository
 
 ```
-https://github.com/abdulhamiid/todo-list.git
+https://github.com/abdulhamiid/todo-list-review.git
 ```
 
 ### Live Demo 
 
-[Link here](https://abdulhamiid.github.io/todo-list)
+[Link here](https://abdulhamiid.github.io/todo-list-review)
 
 ## This project is built with webpack 
 
@@ -70,7 +70,7 @@ Run ```npm start```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abdulhamiid/todo-list/issues).
+Feel free to check the [issues page](https://github.com/abdulhamiid/todo-list-review/issues).
 
 ## Show your support
 
